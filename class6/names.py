@@ -40,7 +40,7 @@ studnets = []
 
 # print(studnets)
 
-# // CSV writer
+# // CSV writer 01601957882
 import csv
 
 name = input("what's your name: ")
